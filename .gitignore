@@ -131,3 +131,4 @@ dmypy.json
 client_key.json
 downloads/
 zips/
+creds.py
